@@ -19,7 +19,7 @@ export const questions = [
       "To manage user accounts and roles",
       "To export, version-control, and import site configuration between environments",
       "To cache rendered HTML pages",
-      "To synchronise the database between servers"
+      "To synchronize the database between servers"
     ],
     answer: 1,
     explanation:
