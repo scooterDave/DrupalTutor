@@ -1,5 +1,5 @@
-import React, { useState, useMemo, useCallback } from 'react';
-import { CheckCircle, XCircle, Trophy, RotateCcw, Play, ArrowRight, BookOpen, Layers, Zap, Shield, Code, Settings } from 'lucide-react';
+import React, { useState, useCallback } from 'react';
+import { CheckCircle, XCircle, Trophy, RotateCcw, Play, ArrowRight, BookOpen, Layers, Code } from 'lucide-react';
 
 const QUESTIONS = [
   // 🟢 Developer Level (12 Questions)
